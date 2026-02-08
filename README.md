@@ -20,3 +20,7 @@ One important concept learned in this project is debouncing. When a button is pr
 The push button counter has many real-life applications. It can be used as a people counter at entrances, a product counter in industries, a voting system, or even as a score counter in games. Through this project, students also learn how hardware and software interact in an embedded system. The hardware includes components like Arduino Uno, push button, resistor, breadboard, and jumper wires. The software part involves writing code in the Arduino IDE, uploading it to the board, and testing the system.
 
 This project is very helpful for building a strong foundation in embedded systems and IoT. It improves problem-solving skills and logical thinking. Beginners gain confidence in circuit connections and coding. It also encourages experimentation, such as adding an LCD display, reset button, or wireless communication for advanced versions. Overall, the push button counter is a small but powerful project that clearly shows how embedded systems work in everyday devices. By completing this project, learners develop practical knowledge that can be applied to more complex systems in the future. It is an ideal starting point for anyone interested in electronics, robotics, or automation, because it combines simple hardware with easy programming while still teaching valuable engineering concepts.
+
+#OUTPUT
+
+<!-- Uploading "Screenshot 2026-02-08 160132.png"... -->
