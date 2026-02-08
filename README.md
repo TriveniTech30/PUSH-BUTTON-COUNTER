@@ -31,3 +31,7 @@ It also encourages experimentation, such as adding an LCD display, reset button,
 shows how embedded systems work in everyday devices. By completing this project, learners develop practical knowledge that can be applied to more complex systems in the future. It is an ideal starting point for 
 anyone interested in electronics, robotics, or automation, because it combines simple hardware with easy programming while still teaching valuable engineering concepts.
 
+#OUTPUT
+
+<img width="1904" height="931" alt="Image" src="https://github.com/user-attachments/assets/83eeda37-9dc4-4a0d-a079-1c8e305b108e" />
+
