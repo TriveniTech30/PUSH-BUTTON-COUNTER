@@ -13,7 +13,7 @@ DURATION : 4 WEEKS
 
 MENTOR : NEELA SANTOSH
 
-A push button counter is a simple and useful embedded systems project that demonstrates how a microcontroller can detect user input and perform counting operations.
+A push button counter is a simple and useful embedded systems project that demonstrates how a microcontroller can detect user input and perform counting operations. 
 In this project, a push button is connected to an Arduino Uno board as a digital input device. When the user presses the button, the Arduino reads the signal and increases a counter value stored in its memory.
 Each press of the button adds one to the count, and the updated value can be displayed on the Serial Monitor, LCD display, or LEDs.
 This project is commonly used by beginners to understand the basics of electronics and programming because it teaches important concepts like digital input and output, variables, conditional statements, and loops.
